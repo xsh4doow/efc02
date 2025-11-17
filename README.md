@@ -278,10 +278,7 @@ EFC 02/
 │   ├── tailwind.config.ts
 │   ├── next.config.js
 │   └── .env.local
-│
-├── docs/
-│   └── RESUMO.md                      # Estudo teórico dos padrões
-│
+├── Resumo.pdf                      # Estudo teórico dos padrões
 ├── .gitignore
 └── README.md                          # Este arquivo
 ```
@@ -376,7 +373,7 @@ POST /api/orders
 
 ## 📚 Documentação Adicional
 
-- **RESUMO.md**: Estudo teórico completo dos padrões, comparações, justificativas e exemplos
+- **RESUMO.pdf**: Estudo teórico completo dos padrões, comparações, justificativas e exemplos
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -402,8 +399,7 @@ MIT
 
 ## 👥 Autores
 
-- **Pedro Beresford Rocha**
 - **Gabriella Cardoso Dos Santos**
+- **Pedro Beresford Rocha**
 
----
 
